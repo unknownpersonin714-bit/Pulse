@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">PULSE</string>
+    <string name="wordmark_pulse">PULSE</string>
+    <string name="tagline_offline_audio">PURE OFFLINE AUDIO ENGINE</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Greetings -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_night">Late night session</string>
+
+    <!-- Home Sections -->
+    <string name="action_play_all">Play All</string>
+    <string name="action_shuffle_all">Shuffle All</string>
+    <string name="section_continue_listening">Continue Listening</string>
+    <string name="section_daily_mix">Daily Mix</string>
+    <string name="section_daily_mix_subtitle">Deterministic blend from your local library &amp; history</string>
+    <string name="section_recently_played">Recently Played</string>
+    <string name="section_most_played">Most Played</string>
+    <string name="section_recently_added">Recently Added</string>
+    <string name="section_rediscover">Rediscover</string>
+    <string name="section_quick_playlists">Playlists &amp; Favourites</string>
+    <string name="stats_tracks">Tracks</string>
+    <string name="stats_albums">Albums</string>
+    <string name="stats_artists">Artists</string>
+
+    <!-- Permissions & Empty States -->
+    <string name="permission_title">Media Access Required</string>
+    <string name="permission_rationale">PULSE indexes audio files stored directly on your device using Android MediaStore. Grant audio access to browse and play your offline collection.</string>
+    <string name="action_grant_permission">Grant Audio Permission</string>
+    <string name="action_open_settings">Open App Settings</string>
+    <string name="empty_library_title">No Local Audio Found</string>
+    <string name="empty_library_message">No compatible music files (.mp3, .flac, .m4a, .wav, .ogg) were found in your device MediaStore. Place audio files in your device\'s Music or Downloads folder, then tap Rescan Library.</string>
+    <string name="action_rescan_library">Rescan Library</string>
+
+    <!-- Library -->
+    <string name="tab_songs">Songs</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_artists">Artists</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sort_title">Title (A–Z)</string>
+    <string name="sort_artist">Artist</string>
+    <string name="sort_album">Album</string>
+    <string name="sort_duration">Duration</string>
+    <string name="sort_date_added">Recently Added</string>
+
+    <!-- Player & Queue -->
+    <string name="cd_play_pause">Play or pause</string>
+    <string name="cd_next">Next track</string>
+    <string name="cd_previous">Previous track</string>
+    <string name="cd_shuffle">Toggle shuffle</string>
+    <string name="cd_repeat">Cycle repeat mode</string>
+    <string name="cd_favourite">Toggle favourite</string>
+    <string name="cd_close_player">Collapse player</string>
+    <string name="cd_open_queue">Open playback queue</string>
+    <string name="cd_open_lyrics">Open lyrics</string>
+    <string name="queue_title">Playback Queue</string>
+    <string name="action_clear_queue">Clear Queue</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="action_add_to_queue">Add to Queue</string>
+    <string name="action_add_to_playlist">Add to Playlist</string>
+
+    <!-- Lyrics -->
+    <string name="lyrics_title">Lyrics</string>
+    <string name="lyrics_synced_badge">LRC SYNCHRONIZED</string>
+    <string name="lyrics_plain_badge">PLAIN TEXT</string>
+    <string name="lyrics_empty_title">No Local Lyrics Found</string>
+    <string name="lyrics_empty_subtitle">Import a compatible .lrc or .txt lyrics file from your device storage to synchronize or view lyrics offline.</string>
+    <string name="action_import_lyrics">Import .LRC / .TXT File</string>
+
+    <!-- Playlists -->
+    <string name="playlists_title">Playlists</string>
+    <string name="favourites_title">Favourites</string>
+    <string name="action_new_playlist">New Playlist</string>
+    <string name="action_rename_playlist">Rename Playlist</string>
+    <string name="action_delete_playlist">Delete Playlist</string>
+    <string name="dialog_delete_playlist_confirm">Delete this playlist? Your original audio files on the device will not be removed.</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search songs, artists, albums, playlists…</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="clear_recent_searches">Clear</string>
+    <string name="no_search_results">No matching results in your local library.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme_dark">Pure Black (OLED Default)</string>
+    <string name="settings_theme_light">High-Contrast Monochrome Light</string>
+    <string name="settings_theme_system">Follow System</string>
+    <string name="settings_library">Music Library</string>
+    <string name="settings_playback">Playback Defaults</string>
+    <string name="settings_privacy_title">100% Offline &amp; Private</string>
+    <string name="settings_privacy_body">PULSE operates strictly offline. All audio indexing, listening history, playlists, favourites, and LRC lyrics stay exclusively on your device. No analytics, cloud servers, or external trackers are used.</string>
+</resources>

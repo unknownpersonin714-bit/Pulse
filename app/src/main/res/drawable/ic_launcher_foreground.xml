@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Custom 5-bar acoustic PULSE waveform emblem inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,46h6v16h-6zM42,36h6v36h-6zM52,28h6v52h-6zM62,38h6v32h-6zM72,48h6v12h-6z" />
+</vector>
